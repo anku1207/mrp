@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MandiRatePe</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_home__item">Home_Item</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_geo__map">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Rs">\u20B9</string>
+    <string name="filled_bullet">\u25CF</string>
+    <string name="linear_bullet">\u25CB</string>
+    <string name="rect_bullet">\u25A0</string>
+    <string name="blank_rect">\u25A1</string>
+    <string name="true_tick">\u2713</string>
+    <string name="star">\u2605</string>
+
+
+    <string name="AccountNumerDigits">"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"</string>
+    <string name="PanNumberDigits">"ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"</string>
+    <string name="NumberDigits">"0123456789"</string>
+
+    <string name="NameDigits">"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz "</string>
+
+    <string name="terms_condition_msg">I\'ve checked all the order details</string>
+    <string name="pin_content_desc">PIN input field</string>
+
+
+    <string name="mobileno">mobileno</string>
+    <string name="type">type</string>
+</resources>

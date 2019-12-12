@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.LoginByMobileNumber"
+    android:orientation="vertical"
+
+
+    >
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".activity.ContactUs"
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:layout_gravity="center|fill_vertical"
+        android:gravity="center">
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/lock"
+            android:layout_gravity="center"/>
+       <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textAlignment="center"
+            android:textColor="@color/textColor"
+            android:textStyle="bold"
+            android:textSize="17dp"
+            android:layout_margin="50dp"
+            android:id="@+id/msgtext"
+           android:paddingLeft="10dp"
+           android:paddingRight="10dp"
+           />
+    </LinearLayout>
+
+    <!--<android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|left"
+        android:layout_marginBottom="20dp"
+
+        app:srcCompat="@drawable/rof_backbutton"
+        android:tint="#ffff"
+        app:backgroundTint="@color/colorPrimary"
+        android:layout_marginLeft="10dp"
+        />-->
+</LinearLayout>

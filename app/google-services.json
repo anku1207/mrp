@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54811075333",
+    "firebase_url": "https://mandiratepe.firebaseio.com",
+    "project_id": "mandiratepe",
+    "storage_bucket": "mandiratepe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54811075333:android:bf2dfaf0cbde4f6f",
+        "android_client_info": {
+          "package_name": "com.uav.mandiratepe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54811075333-fovkbqviguuonmu8sbescv71vbfu9rj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJEDSSUvUpZLK3SRtlFr9BnbSVqaya57I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54811075333-fovkbqviguuonmu8sbescv71vbfu9rj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
